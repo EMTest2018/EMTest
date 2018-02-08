@@ -1,0 +1,6 @@
+framework module EMTest {
+  umbrella header "EMTest.h"
+
+  export *
+  module * { export * }
+}
